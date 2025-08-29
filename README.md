@@ -1,6 +1,9 @@
 ### ¡Hola! Soy Ana Sofía Grass 👋✨
 
-ar el crecimiento y posicionamiento de marcas: investigación de mercados, análisis de tendencias de consumo, analytics y resolución creativa de problemas. 🚀📊
+Soy esa mezcla inesperada entre ingeniera de sistemas en formación y científica de datos en potencia, que disfruta tanto analizar millones de datos como perderse rediseñando una página web para que sea más intuitiva.
+Actualmente curso séptimo semestre en la Pontificia Universidad Javeriana, en un doble programa que me mantiene felizmente ocupada y café-dependiente ☕.
+
+Me apasiona darle sentido a lo complejo: desde descifrar tendencias de consumo hasta encontrar patrones ocultos en bases de datos que parecen imposibles de domar. 🚀
 
 — Creativa, proactiva e innovadora. Siempre lista para aprender, asumir retos y sumar al éxito de los equipos. 💡🤝
 
