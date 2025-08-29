@@ -1,12 +1,6 @@
 ### ¡Hola! Soy Ana Sofía Grass 👋✨
 
-![Coding banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-![Open to opportunities](https://img.shields.io/badge/Open%20to%20opportunities-Yes-00C853?style=for-the-badge&logo=rocket)
-![Languages](https://img.shields.io/badge/English-B2-1E90FF?style=for-the-badge&logo=google-translate)
-![Lives for data](https://img.shields.io/badge/Loves-Data%20%26%20Innovation-FF6F00?style=for-the-badge&logo=sparkfun)
-
-Soy estudiante de 7.º semestre (de 8) en la Pontificia Universidad Javeriana, cursando doble programa en Ingeniería de Sistemas y Ciencia de Datos. Me apasiona crear estrategias con datos para impulsar el crecimiento y posicionamiento de marcas: investigación de mercados, análisis de tendencias de consumo, analytics y resolución creativa de problemas. 🚀📊
+ar el crecimiento y posicionamiento de marcas: investigación de mercados, análisis de tendencias de consumo, analytics y resolución creativa de problemas. 🚀📊
 
 — Creativa, proactiva e innovadora. Siempre lista para aprender, asumir retos y sumar al éxito de los equipos. 💡🤝
 
